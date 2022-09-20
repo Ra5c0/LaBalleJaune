@@ -1,0 +1,164 @@
+{
+	"categorie": {
+		"raquette": {
+			"r1": {
+				"nom": "Wilson Blade",
+				"image": "blade.jpg",
+				"prix": 159.90,
+				"stock": 9
+			},
+			"r2": {
+				"nom": "Babolat Pure Aero",
+				"image": "babolat.jpg",
+				"prix": 169.99,
+				"stock": 8
+			},
+			"r3": {
+				"nom": "Head Radical",
+				"image": "radical.jpg",
+				"prix": 119.95,
+				"stock": 7
+			},
+			"r4": {
+				"nom": "Prince Premier 110",
+				"image": "prince.jpg",
+				"prix": 139.95, 
+				"stock": 6
+			},
+			"r5": {
+				"nom": "Tecnifibre TF40",
+				"image": "technifibre.jpg",
+				"prix": 116.95,
+				"stock": 5
+			}
+		},
+		"chaussure": {
+			"c1": {
+				"nom": "Adidas SoleCourt",
+				"image": "chad.jpg",
+				"prix": 160.00,
+				"stock": 9
+			},
+			"c2": {
+				"nom": "Wilson Kaos 3.0",
+				"image": "chwi.jpg",
+				"prix": 139.99,
+				"stock": 8
+			},
+			"c3": {
+				"nom": "Asics Gel Solution",
+				"image": "chas.jpg",
+				"prix": 95.00,
+				"stock": 7
+			},
+			"c4": {
+				"nom": "Nike Air Zoom Vapor",
+				"image": "chnk.jpg",
+				"prix": 128.00,
+				"stock": 6
+			},
+			"c5": {
+				"nom": "New Balance V3",
+				"image": "chnb.jpg",
+				"prix": 70.00,
+				"stock": 5
+			}
+		},
+		"textile": {
+			"t1": {
+				"nom": "Nike HeadBand",
+				"image": "bdnk.jpg",
+				"prix": 14.00,
+				"stock": 9
+			},
+			"t2": {
+				"nom": "Nike Court Jacket",
+				"image": "vsnk.jpg",
+				"prix": 110.00,
+				"stock": 8
+			},
+			"t3": {
+				"nom": "Tee-Shirt Nike AMP",
+				"image": "tsnk.jpg",
+				"prix": 25.00,
+				"stock": 7
+			},
+			"t4": {
+				"nom": "Short Nike Flex Ace",
+				"image": "shnk.jpg",
+				"prix": 36.00,
+				"stock": 6
+			},
+			"t5": {
+				"nom": "Chaussettes Nike",
+				"image": "cttnk.jpg",
+				"prix": 10.75,
+				"stock": 5
+			}
+		},
+		"sac": {
+			"s1": {
+				"nom": "Sac Prince",
+				"image": "sacp.jpg",
+				"prix": 78.00,
+				"stock": 9
+			},
+			"s2": {
+				"nom": "Sac Head",
+				"image": "sach.jpg",
+				"prix": 69.97,
+				"stock": 8
+			},
+			"s3": {
+				"nom": "Sac Wilson",
+				"image": "sacw.jpg",
+				"prix": 111.95,
+				"stock": 7
+			},
+			"s4": {
+				"nom": "Sac Babolat",
+				"image": "sacb.jpg",
+				"prix": 99.00,
+				"stock": 6
+			},
+			"s5": {
+				"nom": "Sac Tecnifibre",
+				"image": "sact.jpg",
+				"prix": 71.99,
+				"stock": 5
+			}
+		},
+		"balle": {
+			"b1": {
+				"nom": "BAlle Dunlop",
+				"image": "dunlop.jpg",
+				"prix": 7.49,
+				"stock": 9
+			},
+			"b2": {
+				"nom": "Balle Head",
+				"image": "head.jpg",
+				"prix": 6.95,
+				"stock": 8
+			},
+			"b3": {
+				"nom": "Balle Wilson",
+				"image": "wilson.jpg",
+				"prix": 6.50,
+				"stock": 7
+			},
+			"b4": {
+				"nom": "Balle Babolat",
+				"image": "tubebab.jpg",
+				"prix": 7.00,
+				"stock": 6
+			},
+			"b5": {
+				"nom": "Balle Tecnifibre",
+				"image": "techni.jpg",
+				"prix": 4.95,
+				"stock": 5
+			}
+		}
+	}
+}

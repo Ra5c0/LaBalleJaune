@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<utilisateurs>
+  <utilisateur id="0">
+    <nom>admin</nom>
+    <prenom>admin</prenom>
+    <sexe>Homme</sexe>
+    <naissance>2021-03-24</naissance>
+    <email>admin@eisti.eu</email>
+    <login>admin</login>
+    <pwd>admin</pwd>
+    <panier/>
+  </utilisateur>
+  <utilisateur id="1">
+    <nom>Gigon</nom>
+    <prenom>Oscar</prenom>
+    <sexe>Homme</sexe>
+    <naissance>2000-01-20</naissance>
+    <email>oscgig@gmail.com</email>
+    <login>oscgig</login>
+    <pwd>1234</pwd>
+    <panier>,r1,r2,r2</panier>
+  </utilisateur>
+  <utilisateur id="2">
+    <nom>El Asri</nom>
+    <prenom>Yassine</prenom>
+    <sexe>Femme</sexe>
+    <naissance>2000-02-01</naissance>
+    <email>test@gmail.com</email>
+    <login>Zyok</login>
+    <pwd>1234</pwd>
+    <panier/>
+  </utilisateur>
+  <utilisateur id="3">
+    <nom>agou</nom>
+    <prenom>you</prenom>
+    <sexe>Homme</sexe>
+    <naissance>5000-01-17</naissance>
+    <email>b@gmail.com</email>
+    <login>youyou</login>
+    <pwd>1234</pwd>
+    <panier/>
+  </utilisateur>
+  <utilisateur id="4">
+    <nom>test</nom>
+    <prenom>test</prenom>
+    <sexe>Homme</sexe>
+    <naissance>0001-01-01</naissance>
+    <email>o@gmail.com</email>
+    <login>test</login>
+    <pwd>1234</pwd>
+    <panier/>
+  </utilisateur>
+  <utilisateur id="5">
+    <nom>gigon</nom>
+    <prenom>stephane</prenom>
+    <sexe>Homme</sexe>
+    <naissance>0001-01-01</naissance>
+    <email>s@gmail.com</email>
+    <login>steph</login>
+    <pwd>1234</pwd>
+    <panier/>
+  </utilisateur>
+  <utilisateur id="6">
+    <nom>saiba</nom>
+    <prenom>joe</prenom>
+    <sexe>Homme</sexe>
+    <naissance>2014-06-15</naissance>
+    <email>joe@gmail.com</email>
+    <login>joe</login>
+    <pwd>1234</pwd>
+    <panier/>
+  </utilisateur>
+  <utilisateur id="7">
+    <nom>yaya</nom>
+    <prenom>tata</prenom>
+    <sexe>Femme</sexe>
+    <naissance>1936-03-25</naissance>
+    <email>yaya@gmail.com</email>
+    <login>yaya</login>
+    <pwd>1234</pwd>
+    <panier/>
+  </utilisateur>
+</utilisateurs>
