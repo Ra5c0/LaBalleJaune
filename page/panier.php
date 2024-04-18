@@ -23,11 +23,13 @@ $login=$_SESSION['log'];
         $nbArticles=0;
         $taille=count($panierTab);
 
-		for ($i=0;$i<$taille;$i++) {
-			if (strlen($panier[$i])>=2) {
-				$nbArticles=$nbArticles+1;
+		for ($i = 0; $i < $taille; $i++) {
+			// Check if $panier[$i] is not null and has a length of at least 2
+			if (isset($panier[$i]) && strlen($panier[$i]) >= 2) {
+				$nbArticles = $nbArticles + 1;
 			}
 		}
+		
 
 		if($nbArticles==0) {
 		echo "<br> Votre panier est vide <br><br>";

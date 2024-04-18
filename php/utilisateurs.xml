@@ -80,4 +80,14 @@
     <pwd>1234</pwd>
     <panier/>
   </utilisateur>
+  <utilisateur id="8">
+    <nom>choi</nom>
+    <prenom>yujin</prenom>
+    <sexe>Homme</sexe>
+    <naissance>2000-01-20</naissance>
+    <email>zuno@test.fr</email>
+    <login>zuno</login>
+    <pwd>test</pwd>
+    <panier/>
+  </utilisateur>
 </utilisateurs>
